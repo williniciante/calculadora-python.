@@ -1,5 +1,3 @@
-Calculadora com Python.
-
 print("1-Soma.")
 print("2-Subtração.")
 print("3-Multiplicação.")
@@ -22,3 +20,4 @@ elif escolha == 3:
     print(f"Multiplicação: {numero_1*numero_2}")
 elif escolha == 4:
     print(f"Divisão: {numero_1/numero_2}")
+
